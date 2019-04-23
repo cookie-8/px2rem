@@ -1,9 +1,13 @@
 {
-	"name": "px2rem",
+	"name": "px2rem8",
 	"publisher": "cookie",
-	"displayName": "px2rem",
+	"displayName": "px2rem8",
 	"description": "",
-	"version": "0.0.1",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhengjy8/px2rem.git"
+    },
 	"engines": {
 		"vscode": "^1.33.0"
 	},
